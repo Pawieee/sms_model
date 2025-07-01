@@ -1,5 +1,7 @@
 # 📩 SMS Spam Detection with Multinomial Naive Bayes
 
+
+![Image Preview](images\preview.png)
 This is a simple machine learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using the **Multinomial Naive Bayes** algorithm. The app is built with **Streamlit** for an easy-to-use web interface.
 
 ---
@@ -7,6 +9,7 @@ This is a simple machine learning project that classifies SMS messages as **Spam
 ## 🚀 Demo
 
 Live App: _[https://sms-model-jack-n-dio.streamlit.app](#)_
+
 
 ---
 
@@ -25,3 +28,32 @@ Live App: _[https://sms-model-jack-n-dio.streamlit.app](#)_
 - ✔️ Clean and minimal interface with Streamlit
 - ✔️ Uses **CountVectorizer** for feature extraction
 - ✔️ Lightweight and fast with **Multinomial Naive Bayes**
+
+
+---
+
+## ⚙️ Run Locally
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/your-username/sms_model.git
+    cd sms_model
+    ```
+
+2. Install dependencies
+    ```bash
+    pip install -r "requirements.txt"
+    ```
+
+3. Run streamlit
+    ```bash
+    streamlit run app.py
+    ```
+
+## Requirements
+
+    - Python installed locally
+    - Pandas
+    - Scikit-learn
+    - Streamlit
+    - Joblib
