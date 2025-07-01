@@ -8,7 +8,7 @@ This is a simple machine learning project that classifies SMS messages as **Spam
 
 ## 🚀 Demo
 
-Live App: _[https://sms-model-jack-n-dio.streamlit.app](#)_
+Live App: _[https://sms-model-jack-n-dio.streamlit.app](https://sms-model-jack-n-dio.streamlit.app/)_
 
 
 ---
