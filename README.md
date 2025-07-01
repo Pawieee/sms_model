@@ -1,7 +1,7 @@
 # 📩 SMS Spam Detection with Multinomial Naive Bayes
 
 
-![Image Preview](images\preview.png)
+![Image Preview](images/preview.png)
 This is a simple machine learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using the **Multinomial Naive Bayes** algorithm. The app is built with **Streamlit** for an easy-to-use web interface.
 
 ---
